@@ -57,3 +57,19 @@
     border-left: none;
     border-right: none;
 }
+.firm{
+    font-family: 1.5rem;
+    font-weight: 700;
+}
+.confirm{
+    width: 100%;
+    border: 1.2px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.sign{
+    width: 20%;
+    height: 40px;
+    background-color: palevioletred;
+}
