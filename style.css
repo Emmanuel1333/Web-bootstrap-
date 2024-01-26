@@ -1,0 +1,59 @@
+.container{
+   
+}
+.imaging{
+    background-image: url('image.jpg');
+    height: 100%;
+    opacity: 5px;
+    box-shadow: 8px 8px 8px solid black;
+    background-repeat: no-repeat;
+}
+.name{
+    width: 100%;
+    border: 1.2px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.email{
+    width: 100%;
+    border: 1.2px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.username{
+    width: 100%;
+    border: 1.2px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.signup{
+    text-align: center;
+    font-weight: 800;
+    font-size:3rem;
+}
+.fullname{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.mail{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.user{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.pass{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.password{
+    width: 100%;
+    border: 1.2px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
